@@ -1,3 +1,10 @@
+#include "main.h"
+/**
+* print_number - printing number with puts
+*
+* @n: input int
+*/
+
 void print_number(int n)
 {
 	int count = 0, pow = 1;
